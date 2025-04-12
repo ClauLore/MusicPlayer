@@ -14,6 +14,14 @@
 
             song1.setAmount(100);
 
+
+            Persona persona1 = new Persona("Fernanda", 25, 46589563);
+
+            persona1.Age= 30;
+            Console.WriteLine($"La edad es {persona1.Age}");
+
+
+
         }
     }
 }
