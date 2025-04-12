@@ -1,0 +1,14 @@
+D:\Otros\Claudia\Codigo-Tecsup\Clase 6\MusicPlayer\MusicPlayer\bin\Debug\net9.0\MusicPlayer.exe
+D:\Otros\Claudia\Codigo-Tecsup\Clase 6\MusicPlayer\MusicPlayer\bin\Debug\net9.0\MusicPlayer.deps.json
+D:\Otros\Claudia\Codigo-Tecsup\Clase 6\MusicPlayer\MusicPlayer\bin\Debug\net9.0\MusicPlayer.runtimeconfig.json
+D:\Otros\Claudia\Codigo-Tecsup\Clase 6\MusicPlayer\MusicPlayer\bin\Debug\net9.0\MusicPlayer.dll
+D:\Otros\Claudia\Codigo-Tecsup\Clase 6\MusicPlayer\MusicPlayer\bin\Debug\net9.0\MusicPlayer.pdb
+D:\Otros\Claudia\Codigo-Tecsup\Clase 6\MusicPlayer\MusicPlayer\obj\Debug\net9.0\MusicPlayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Otros\Claudia\Codigo-Tecsup\Clase 6\MusicPlayer\MusicPlayer\obj\Debug\net9.0\MusicPlayer.AssemblyInfoInputs.cache
+D:\Otros\Claudia\Codigo-Tecsup\Clase 6\MusicPlayer\MusicPlayer\obj\Debug\net9.0\MusicPlayer.AssemblyInfo.cs
+D:\Otros\Claudia\Codigo-Tecsup\Clase 6\MusicPlayer\MusicPlayer\obj\Debug\net9.0\MusicPlayer.csproj.CoreCompileInputs.cache
+D:\Otros\Claudia\Codigo-Tecsup\Clase 6\MusicPlayer\MusicPlayer\obj\Debug\net9.0\MusicPlayer.dll
+D:\Otros\Claudia\Codigo-Tecsup\Clase 6\MusicPlayer\MusicPlayer\obj\Debug\net9.0\refint\MusicPlayer.dll
+D:\Otros\Claudia\Codigo-Tecsup\Clase 6\MusicPlayer\MusicPlayer\obj\Debug\net9.0\MusicPlayer.pdb
+D:\Otros\Claudia\Codigo-Tecsup\Clase 6\MusicPlayer\MusicPlayer\obj\Debug\net9.0\MusicPlayer.genruntimeconfig.cache
+D:\Otros\Claudia\Codigo-Tecsup\Clase 6\MusicPlayer\MusicPlayer\obj\Debug\net9.0\ref\MusicPlayer.dll
